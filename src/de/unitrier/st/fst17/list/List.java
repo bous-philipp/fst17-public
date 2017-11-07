@@ -1,5 +1,5 @@
 package de.unitrier.st.fst17.list;
-
+//bous-philipp
 /**
  * Doppelt verkettete Liste.
  */
